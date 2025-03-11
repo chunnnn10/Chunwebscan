@@ -59,7 +59,7 @@ sudo apt-get install curl dirb gobuster nikto whatweb sqlmap
 
 ```bash
 git clone github.com/chunnnn10/Chunwebscan.git  
-cd 你的仓库名
+cd Chunwebscan
 ```
 
 ### 運行 ChunWebScan
