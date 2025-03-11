@@ -4,8 +4,6 @@
 
 > **"工欲善其事，必先利其器。"**  -- 《論語·衛靈公》
 
-![ChunWebScan Logo](https://example.com/chunwebscan_logo.png)  <!-- 替換成你的 Logo URL -->
-
 ## 🌟 項目簡介
 
 ChunWebScan 是一款輕量級、自動化的網頁漏洞掃描工具，專為安全研究人員、開發人員和網站管理員設計。它可以幫助你快速發現網站中潛在的漏洞，例如：
@@ -138,8 +136,8 @@ cd 你的仓库名
 
 如果你有任何问题或建议，请通过以下方式联系我：
 
-*   GitHub Issues: [你的仓库地址/issues]  <!-- 替換成你的倉庫地址 -->
-*   Email: [你的邮箱地址]
+*   GitHub Issues: [[你的仓库地址/issues](https://github.com/chunnnn10)]
+*   Email: [chun@chunnnn10.com]
 
 ---
 
