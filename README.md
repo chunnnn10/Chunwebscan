@@ -58,7 +58,7 @@ sudo apt-get install curl dirb gobuster nikto whatweb sqlmap
 ### 獲取代碼
 
 ```bash
-git clone https://github.com/你的用户名/你的仓库名.git  # 替換成你的倉庫地址
+git clone github.com/chunnnn10/Chunwebscan.git  
 cd 你的仓库名
 ```
 
@@ -73,7 +73,7 @@ cd 你的仓库名
 2.  **運行掃描：**
 
     ```bash
-    sudo ./chunwebscan.sh -u <目標URL> [選項]  # 注意文件名也改了
+    sudo ./chunwebscan.sh -u <目標URL> [選項] 
     ```
 
     **範例：**
