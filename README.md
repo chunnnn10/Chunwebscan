@@ -136,8 +136,8 @@ cd Chunwebscan
 
 如果你有任何问题或建议，请通过以下方式联系我：
 
-*   GitHub Issues: [[你的仓库地址/issues](https://github.com/chunnnn10)]
-*   Email: [chun@chunnnn10.com]
+*   GitHub Issues: [(https://github.com/chunnnn10)]
+*   Email: [chun@archun.net]
 
 ---
 
